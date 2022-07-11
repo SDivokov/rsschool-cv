@@ -18,5 +18,5 @@ Skills:
 - Kanban
 
 Work experience:
-Nothing yet…
+
 
