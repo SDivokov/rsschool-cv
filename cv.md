@@ -17,6 +17,6 @@ Skills:
 - Agile&Scrum 
 - Kanban
 
-Work experience:
+
 
 
