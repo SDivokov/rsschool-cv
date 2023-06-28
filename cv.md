@@ -1,10 +1,9 @@
 # Dzivakou Siarhei
-*Junior Frontend Developer*
-
+###### *Junior Frontend Developer*
 Tel.: +375296757549
 E-mail: sergei.divokov@gmail.com
-GitHub: https://github.com/SDivokov?tab=repositories
-Linkedin: https://www.linkedin.com/in/sdivokov/
+- [Githab](https://github.com/SDivokov?tab=repositories)
+- [Linkedin](https://www.linkedin.com/in/sdivokov/)
 
 ### ABOUT ME
 I have a background in project management. I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer. 
@@ -22,7 +21,7 @@ I have a background in project management. I believe, that my ability to learn a
 - Git, GitHub
 - VS Code
 
-### WORK EXPERIENCE:
+### WORK EXPERIENCE
 July 2022 - Current - Project Manager, Exlab 
 ExLab project helps Junior IT specialists of different specialties to get real work experience. The project provides an opportunity to work on the implementation of real startup projects under the supervision of mentors and experienced specialists, team of 14 people.
 
