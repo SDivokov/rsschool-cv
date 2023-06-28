@@ -2,8 +2,8 @@
 ###### *Junior Frontend Developer*
 Tel.: +375296757549
 E-mail: sergei.divokov@gmail.com
-- [Githab](https://github.com/SDivokov?tab=repositories)
-- [Linkedin](https://www.linkedin.com/in/sdivokov/)
+[Githab](https://github.com/SDivokov?tab=repositories)
+[Linkedin](https://www.linkedin.com/in/sdivokov/)
 
 ### ABOUT ME
 I have a background in project management. I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer. 
