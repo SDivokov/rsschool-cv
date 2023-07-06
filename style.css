@@ -1,0 +1,13 @@
+body{
+    background: yellow;
+    display: flex;
+}
+.header{
+    background: black;
+    display: flex;
+}
+.header.name{
+    color: darkorange;
+    text-align: center;
+}
+
