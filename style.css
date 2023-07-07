@@ -21,9 +21,6 @@ body{
     align-items: stretch;
     list-style: none;
 }
-container1, .container2 {
-    display: inline-flex;
-}
 h1{
     color: black;
 }
