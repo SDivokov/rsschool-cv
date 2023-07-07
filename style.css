@@ -1,13 +1,29 @@
 body{
-    background: yellow;
     display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
 }
 .header{
-    background: black;
     display: flex;
-}
-.header.name{
+    flex-direction: column;
+    justify-content: space-between;
     color: darkorange;
-    text-align: center;
 }
-
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    width: 110%;
+    align-items: stretch;
+    list-style: none;
+}
+container1, .container2 {
+    display: inline-flex;
+}
+h1{
+    color: black;
+}
