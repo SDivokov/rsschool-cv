@@ -6,12 +6,12 @@ body{
 }
 .header{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-between;
-    color: darkorange;
+    margin: 0 auto;
 }
 .container {
-    max-width: 1440px;
+    max-width: 1000px;
     margin: 0 auto;
 }
 .nav-list {
