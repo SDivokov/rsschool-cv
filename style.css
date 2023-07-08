@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    width: 110%;
+    align-items: stretch;
+    list-style: none;
+}
+h1{
+    color: black;
+}
